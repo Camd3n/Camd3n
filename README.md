@@ -35,6 +35,7 @@ I am an aspiring c++ developer with knowledge in languages which are listed late
 * [Script utilites](https://github.com/Camd3n/script-utilities)
 * [UltraUI](https://github.com/Camd3n/UltraUI)
 * Baykone
+* Tether
 
 ### Languages
 * [JavaScript](https://www.javascript.com/)
