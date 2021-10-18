@@ -22,7 +22,6 @@
 
 
 ## About Me
-
 I am an aspiring c++ developer with knowledge in languages which are listed later on with a particular interest in game hacking.
 
 ### Projects
@@ -36,9 +35,14 @@ I am an aspiring c++ developer with knowledge in languages which are listed late
 * [UltraUI](https://github.com/Camd3n/UltraUI)
 * Baykone
 * Tether
+* NXC
+* Dopamine
 
 ### Languages
 * [JavaScript](https://www.javascript.com/)
 * [Python](https://www.python.org/)
 * [C++](https://www.cplusplus.com/)
 * [Lua](https://www.lua.org/)
+
+### Contact
+Discord: lua#1601
