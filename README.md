@@ -7,7 +7,7 @@
   <h3 align="center">Camden</h3>
 
   <p align="center">
-    /luaexec/
+    <img src="https://komarev.com/ghpvc/?username=luaexec" alt="profile views">
     <br />
     <a href="https://github.com/luaexec?tab=repositories"><strong>Repositories »</strong></a>
     <br />
