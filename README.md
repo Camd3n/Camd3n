@@ -6,7 +6,7 @@
 
   <h3 align="center">/luaexec/</h3>
   <p align="center">
-  cyber security | cheat development
+  Cyber security | Cheat development
   </p>
 
   <p align="center">
